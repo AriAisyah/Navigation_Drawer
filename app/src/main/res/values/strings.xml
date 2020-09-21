@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Navigation Drawer</string>
+    <string name="title">Title</string>
+    <string name="desc">This Is Our Navigation Drawer</string>
+    <string name="profile">Profile</string>
+    <string name="message">Message</string>
+    <string name="friend">Friend</string>
+    <string name="account_settings">Settings Account</string>
+    <string name="update_profile">Update Profile</string>
+    <string name="signout">Sign Out</string>
+    <string name="navigation_drawer">Navigation Drawer</string>
+    <string name="content">This is my content area</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="friend_fragment">Friend Fragment</string>
+    <string name="message_fragment">Message Fragment</string>
+    <string name="Profile_fragment">Profile Fragment</string>
+    <string name="update_fragment">Update Fragment</string>
+</resources>
